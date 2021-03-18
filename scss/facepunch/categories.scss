@@ -162,15 +162,15 @@
       }
     }
 
-    // Set Styling for bunnyhop Category
+    // Set Styling for bhop Category
     &[data-category-id="9"] {
       .category-head {
-        background-image: url(https://raw.githubusercontent.com/cr4yz/Facepunch-Discourse-Theme/master/assets/categories/banner-bunnyhop.jpg);
+        background-image: url(https://raw.githubusercontent.com/cr4yz/Facepunch-Discourse-Theme/master/assets/categories/banner-bhop.jpg);
       }
       .subcategories,
       .topics {
         .badge.badge-notification {
-          background-color: $bunnyhop !important;
+          background-color: $bhop !important;
         }
       }
     }
