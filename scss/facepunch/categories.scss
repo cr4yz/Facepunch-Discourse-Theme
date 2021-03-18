@@ -122,24 +122,24 @@
       }
     }
 
-    // Set Styling for Rust Category
-    &[data-category-id="10"] {
+    // Set Styling for Tricksurf Category
+    &[data-category-id="8"] {
       .category-head {
-        background-image: url(https://files.facepunch.com/garry/a4855dbf-5c09-47bd-b950-74a0132e2a9d.png);
+        background-image: url(https://raw.githubusercontent.com/cr4yz/Facepunch-Discourse-Theme/master/assets/categories/banner-tricksurf.jpg);
       }
 
       .subcategories,
       .topics {
         .badge.badge-notification {
-          background-color: $rust !important;
+          background-color: $tricksurf !important;
         }
       }
     }
 
-    // Set Styling for Gmod Category (Set to 9)
-    &[data-category-id="9"] {
+    // Set Styling for csurf Category
+    &[data-category-id="10"] {
       .category-head {
-        background-image: url(https://files.facepunch.com/garry/9bb26b95-3771-481d-8e2d-1564373de900.png);
+        background-image: url(https://raw.githubusercontent.com/cr4yz/Facepunch-Discourse-Theme/master/assets/categories/banner-csurf.jpg);
         .category-description {
           color: #c0e5ff !important;
         }
@@ -157,20 +157,20 @@
       .subcategories,
       .topics {
         .badge.badge-notification {
-          background-color: $gmod !important;
+          background-color: $csurf !important;
         }
       }
     }
 
-    // Set Styling for Sandbox Category (Set to 5)
-    &[data-category-id="5"] {
+    // Set Styling for bunnyhop Category
+    &[data-category-id="9"] {
       .category-head {
-        background-image: url(https://files.facepunch.com/garry/f14fdb16-aa6c-491c-aaaa-f20a6c19ccf8.png);
+        background-image: url(https://raw.githubusercontent.com/cr4yz/Facepunch-Discourse-Theme/master/assets/categories/banner-bunnyhop.jpg);
       }
       .subcategories,
       .topics {
         .badge.badge-notification {
-          background-color: $sandbox !important;
+          background-color: $bunnyhop !important;
         }
       }
     }
