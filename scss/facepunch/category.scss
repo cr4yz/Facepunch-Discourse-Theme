@@ -35,30 +35,30 @@ body {
     }
 
     // Sandbox Styles
-    &.category-sb {
+    &.category-bhop {
       .category-heading {
-        background-image: url(https://files.facepunch.com/garry/d250f3d2-b679-4b04-ae66-59aa77f6e8eb.png);
+        background-image: url($bhopbanner);
       }
     }
 
     // Rust Styles
-    &.category-rust {
+    &.category-tricksurf {
       .category-heading {
-        background-image: url(https://files.facepunch.com/garry/a4855dbf-5c09-47bd-b950-74a0132e2a9d.png);
+        background-image: url($tricksurfbanner);
       }
     }
 
     // Gmod Styles
-    &.category-gmod {
+    &.category-csurf {
       .category-heading {
-        background-image: url(https://files.facepunch.com/garry/9bb26b95-3771-481d-8e2d-1564373de900.png);
+        background-image: url($csurfbanner);
       }
     }
 
     // Meta
     &.category-meta {
       .category-heading {
-        background-image: url(https://files.facepunch.com/garry/d250f3d2-b679-4b04-ae66-59aa77f6e8eb.png);
+        background-image: url($placeholderbanner);
       }
     }
 
