@@ -144,16 +144,6 @@
           color: #c0e5ff !important;
         }
 
-        &:before {
-          background: linear-gradient(
-            90deg,
-            rgba(#1194f0, 0.7) 20%,
-            rgba(#1194f0, 0.3) 60%,
-            rgba(#1194f0, 0.4) 100%
-          );
-        }
-      }
-
       .subcategories,
       .topics {
         .badge.badge-notification {
