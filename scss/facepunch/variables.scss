@@ -34,11 +34,11 @@ $fullhd: 1344px + (2 * $gap) !default;
 $fullhd-enabled: true !default;
 
 @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
-@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Russo+One:wght@700&display=swap);
 
 :root {
-  --font-family: "Roboto", Helvetica, Arial, sans-serif;
-  --heading-font-family: "Poppins", Helvetica, Arial, sans-serif;
+  --font-family: "Verdana", sans-serif;
+  --heading-font-family: "Russo One", sans-serif;
   --success: #03a9f4;
   --highlight-medium: #1194f033;
 }
